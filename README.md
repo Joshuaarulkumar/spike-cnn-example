@@ -1,0 +1,1 @@
+# spike-cnn-example
